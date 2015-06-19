@@ -1,0 +1,21 @@
+{
+  "name": "react-todo",
+  "version": "1.0.0",
+  "description": "",
+  "dependencies": {
+    "babelify": "^6.1.2",
+    "browser-sync": "^2.7.12",
+    "browserify": "^10.2.4",
+    "gulp": "^3.9.0",
+    "react": "^0.13.3",
+    "reactify": "^1.1.1",
+    "vinyl-source-stream": "^1.1.0",
+    "watchify": "^3.2.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
